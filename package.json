@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NotACat1/COMPASS-3D-courses.git"
+    "url": "git+https://github.com/lanpotato/Blender.git"
   },
   "keywords": [
     "Backend",
@@ -16,9 +16,9 @@
   "author": "NotACat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NotACat1/COMPASS-3D-courses/issues"
+    "url": "https://github.com/lanpotato/Blender/issues"
   },
-  "homepage": "https://github.com/NotACat1/COMPASS-3D-courses#readme",
+  "homepage": "https://github.com/lanpotato/Blender#readme",
   "scripts": {
     "msg-commit": "npx commitlint -E HUSKY_GIT_PARAMS",
     "pre-commit": "npx lint-staged",
